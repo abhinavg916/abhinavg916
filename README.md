@@ -1,4 +1,4 @@
-# Hi, I'm Abhinav
+# Hi 👋, I'm Abhinav
 
 <img src="https://komarev.com/ghpvc/?username=abhinavg916&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavg916" />
 
@@ -17,7 +17,10 @@ To know more, My Website - [abhinavdhiman.dev]()
 ⚡ Fun Facts
 
 - I neither drink tea nor coffee 😉
+<!--
 - I code in Light theme 😎
+- I write with Left hand 👈
+-->
 
 <!--
 Below are my Online Programming Profiles:

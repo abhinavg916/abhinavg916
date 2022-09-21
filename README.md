@@ -2,9 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=abhinavg916&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavg916" />
 
-Software Engineer with demonstrated history of creating, developing and deploying full stack web applications, currently
-working at [**HCL Technologies**](https://www.hcltech.com/). Skilled in JavaScript, Reactjs, Redux/Redux Saga/Redux Toolkit, Nodejs, Expressjs, MongoDB and PostgreSQL. I
-am a curious, passionate and self-motivated individual. Apart from technical, am an effective team player who brings energy,
+Software Engineer with demonstrated history of creating, developing and deploying frontend web applications, currently
+working at [**HCL Technologies**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs, Redux/Redux Saga/Redux Toolkit, and Webpack. I am a curious, passionate and self-motivated individual. Apart from technical, am an effective team player who brings energy,
 enthusiasm & humor to motivate team members to achieve their best potential.
 
 Always keen to learn new technologies and develop creative solutions. Ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results.
@@ -12,12 +11,12 @@ Nowadays, exploring and learning about Web Performance and Content Optimizations
 
 I enjoy working on challenging projects which makes differences.
 
-
-
 To know more, 
 - My Website - [abhinavdhiman.dev]()
 - My Resume - [Abhinav_Full_Stack_(MERN)_Resume]()
+<!--
 - [StopStalk - @abhinavg916](https://www.stopstalk.com/user/profile/abhinavg916)
+-->
 
 ⚡ Fun Facts
 
@@ -46,20 +45,24 @@ Below are my Online Programming Profiles:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
+<!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </p>
 
+<!--
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
+-->
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 

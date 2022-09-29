@@ -11,9 +11,12 @@ Nowadays, exploring and learning about Web Performance and Content Optimizations
 
 I enjoy working on challenging projects which makes differences.
 
+<!--
 To know more, 
 - My Website - [abhinavdhiman.com]()
 - My Resume - [Abhinav_Reactjs_Resume]()
+-->
+
 <!--
 - [StopStalk - @abhinavg916](https://www.stopstalk.com/user/profile/abhinavg916)
 -->
@@ -78,10 +81,12 @@ Below are my Online Programming Profiles:
 </p>
 -->
 
+<!--
 ### GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavg916&show_icons=true&locale=en&layout=compact" alt="abhinavg916" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavg916&show_icons=true&locale=en" alt="abhinavg916" /></p>
+-->
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavg916&" alt="abhinavg916" /></p>

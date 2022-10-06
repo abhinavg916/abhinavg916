@@ -7,7 +7,6 @@ working at [**HCL Technologies**](https://www.hcltech.com/). Skilled in JavaScri
 enthusiasm & humor to motivate team members to achieve their best potential.
 
 Always keen to learn new technologies and develop creative solutions. Ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results.
-Nowadays, exploring and learning about Web Performance and Content Optimizations, Web Accessibility, Scalability, etc.
 
 I enjoy working on challenging projects which makes differences.
 
@@ -29,7 +28,6 @@ To know more,
 - I code in Light theme 😎
 - I write with Left hand 👈
 -->
-
 
 <!--
 Below are my Online Programming Profiles:
@@ -86,13 +84,13 @@ Below are my Online Programming Profiles:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavg916&show_icons=true&locale=en&layout=compact" alt="abhinavg916" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavg916&show_icons=true&locale=en" alt="abhinavg916" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavg916&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavg916&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 -->
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavg916&" alt="abhinavg916" /></p>
 -->
-
-
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavg916" alt="abhinavg916" /></a> </p>

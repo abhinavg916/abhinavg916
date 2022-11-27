@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abhinav
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=abhinavg916&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavg916" />
-
+-->
 Software Engineer with demonstrated history of creating, developing and deploying frontend web applications, currently
 working at [**HCL Technologies**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs, Redux/Redux Saga/Redux Toolkit, and Webpack. I am a curious, passionate and self-motivated individual. Apart from technical, am an effective team player who brings energy,
 enthusiasm & humor to motivate team members to achieve their best potential.

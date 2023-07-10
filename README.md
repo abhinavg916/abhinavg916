@@ -15,7 +15,7 @@ I enjoy working on challenging projects which makes differences.
 ⚠ **Open to Hire - Seeking Newer Job Opporunities to Work At!** ⚠ 
 
 
-Software Engineer with demonstrated history of creating, developing and deploying frontend web applications, currently
+Software Engineer with demonstrated history of creating, developing and deploying **frontend web applications**, currently
 working at [HCLTech](https://www.hcltech.com/) for over **2 years and 6 months.**  
 
 I am highly skilled, curious and motivated individual with the passion for creating innovative solutions.
@@ -24,7 +24,7 @@ Below are my skills,
 
 - **Technologies** - JavaScript, TypeScript, React, Angular, Redux, Redux Toolkit, Redux Saga, Redux Thunk, SCSS, CSS, HTML
 - **UI Libraries** - Styled-Components, Material UI, Tailwind CSS, Bootstrap, Framer Motion
-- **Others** - Git, Webpack, Responsive Web Development, Chrome DevTools, React & Redux DevTools
+- **Others** - Git, Webpack, BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
 
 
 <!-- Apart from technical, am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
@@ -66,7 +66,7 @@ Below are my Online Programming Profiles:
 
 <!-- **Frontend Web Development** -->
 
-<p>
+<p style="text-align:center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
@@ -144,8 +144,8 @@ Below are my Online Programming Profiles:
 I am actively looking out for newer job opportunities and challenges to work upon where I can contribute my expertise, 
 learn from talented professionals, and be part of a team dedicated to creating cutting-edge software solutions.
 
-- My Portfolio Website - [www.abhinavdhiman.com]()
-- My Resume - [Abhinav_Frontend_(2+YoE)_Resume]()
+- Portfolio Website - [www.abhinavdhiman.com]()
+- Resume - [Abhinav_Frontend_(2+YoE)_Resume]()
 
 If you are interested in discussing potential collaborations or would like to learn more about my qualifications, please don't hesitate to reach out. 
 

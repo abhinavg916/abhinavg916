@@ -3,22 +3,22 @@
 <img src="https://komarev.com/ghpvc/?username=abhinavg916&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavg916" />
  -->
 <!--
-Software Engineer with demonstrated history of creating, developing and deploying frontend web applications, currently
-working at [**HCLTech**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs, Redux/Redux Saga/Redux Toolkit, and Webpack. I am a curious, passionate and self-motivated individual. Apart from technical, am an effective team player who brings energy,
+Software Engineer with a demonstrated history of creating, developing, and deploying frontend web applications, currently
+working at [**HCLTech**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs, Redux/Redux Saga/Redux Toolkit, and Webpack. I am a curious, passionate, and self-motivated individual. Apart from technical, I am an effective team player who brings energy,
 enthusiasm & humor to motivate team members to achieve their best potential.
 
 Always keen to learn new technologies and develop creative solutions. Ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results.
 
-I enjoy working on challenging projects which makes differences.
+I enjoy working on challenging projects which make a difference.
 -->
 
-⚠ **Open to Hire - Seeking Newer Job Opporunities to Work At!** ⚠ 
+⚠ **Open to Work - Seeking Newer Job Opportunities to Work At!** ⚠ 
 
 
-Software Engineer with demonstrated history of creating, developing and deploying **frontend web applications**, currently
+Software Engineer with a demonstrated history of creating, developing, and deploying **frontend web applications**, currently
 working at [HCLTech](https://www.hcltech.com/) for over **2 years and 6 months.**  
 
-I am highly skilled, curious and motivated individual with the passion for creating innovative solutions.
+I am a highly-skilled, curious, and motivated individual passionate about creating innovative solutions.
 
 Below are my skills, 
 
@@ -27,7 +27,7 @@ Below are my skills,
 - **Others** - Git, Webpack, BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
 
 
-<!-- Apart from technical, am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
+<!-- Apart from technical, I am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
 
 <!-- I am always keen and curious to learn new technologies and develop creative solutions. I have the proven ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results. -->
 
@@ -41,7 +41,7 @@ Below are my skills,
 -->
 <!--
 - I code in Light theme 😎
-- I write with Left hand 👈
+- I write with my Left hand 👈
 -->
 
 <!--
@@ -66,7 +66,7 @@ Below are my Online Programming Profiles:
 
 <!-- **Frontend Web Development** -->
 
-<p style="text-align:center">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
@@ -141,8 +141,7 @@ Below are my Online Programming Profiles:
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavg916" alt="abhinavg916" /></a> </p> -->
 
 
-I am actively looking out for newer job opportunities and challenges to work upon where I can contribute my expertise, 
-learn from talented professionals, and be part of a team dedicated to creating cutting-edge software solutions.
+I am actively looking out for newer job opportunities and challenges to work on where I can contribute my expertise, learn from talented professionals, and be part of a team dedicated to creating cutting-edge software solutions.
 
 - Portfolio Website - [www.abhinavdhiman.com]()
 - Resume - [Abhinav_Frontend_(2+YoE)_Resume]()

@@ -12,7 +12,7 @@ Always keen to learn new technologies and develop creative solutions. Ability to
 I enjoy working on challenging projects which make a difference.
 -->
 
-⚠ **Open to Work - Seeking Newer Job Opportunities to Work!** ⚠ 
+⚠ **Open to Work - Seeking Newer Job Opportunities!** ⚠ 
 
 
 Software Engineer with a demonstrated history of creating, developing, and deploying **frontend web applications**, currently

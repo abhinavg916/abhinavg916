@@ -18,11 +18,11 @@ I enjoy working on challenging projects which make a difference.
 Software Engineer with a demonstrated history of creating, developing, and deploying **frontend web applications**, currently
 working at [HCLTech](https://www.hcltech.com/) for over **2 years and 6 months.**  
 
-I am a highly-skilled, curious, and motivated individual passionate about creating innovative solutions.
+I am highly skilled, curious, and motivated, passionate about creating innovative solutions.
 
 Below are my skills, 
 
-- **Technologies** - JavaScript, TypeScript, React, Angular, Redux, Redux Toolkit, Redux Saga, Redux Thunk, SCSS, CSS, HTML
+- **Technologies** - JavaScript, TypeScript, React, Redux, Redux Toolkit, Redux Saga, Redux Thunk, SCSS, CSS, HTML
 - **UI Libraries** - Styled-Components, Material UI, Tailwind CSS, Bootstrap, Framer Motion
 - **Others** - Git, Webpack, BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
 
@@ -70,7 +70,7 @@ Below are my Online Programming Profiles:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" /> -->

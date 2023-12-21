@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=abhinavg916&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavg916" />
  -->
 <!--
-Software Engineer with a demonstrated history of creating, developing, and deploying frontend web applications, currently
-working at [**HCLTech**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs, Redux/Redux Saga/Redux Toolkit, and Webpack. I am a curious, passionate, and self-motivated individual. Apart from technical, I am an effective team player who brings energy,
+Software Engineer with a demonstrated history of developing, and maintaining frontend web applications. Currently
+working at [**HCLTech**](https://www.hcltech.com/). Skilled in JavaScript,  TypeScript, Reactjs and Redux. I am a curious, passionate, and self-motivated individual. Apart from technical, I am an effective team player who brings energy,
 enthusiasm & humor to motivate team members to achieve their best potential.
 
 Always keen to learn new technologies and develop creative solutions. Ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results.
@@ -12,20 +12,15 @@ Always keen to learn new technologies and develop creative solutions. Ability to
 I enjoy working on challenging projects which make a difference.
 -->
 
-⚠ **Open to Work - Seeking Newer Job Opportunities!** ⚠ 
-
-
-Software Engineer with a demonstrated history of creating, developing, and deploying **frontend web applications**, currently
-working at [HCLTech](https://www.hcltech.com/) for over **2 years and 6 months.**  
-
-I am highly skilled, curious, and motivated, passionate about creating innovative solutions.
+Software Engineer with a demonstrated history of developing and maintaining **frontend web applications**, currently
+working at [HCLTech](https://www.hcltech.com/) for over **2 years and 10 months.**  
 
 Below are my skills, 
 
-- **Technologies** - JavaScript, TypeScript, React, Redux, Redux Toolkit, Redux Saga, Redux Thunk, SCSS, CSS, HTML
+- **Technologies** - JavaScript, TypeScript, Reactjs, Redux (Toolkit / Saga / Thunk), React Router, React Query, SCSS, CSS, HTML
 - **UI Libraries** - Styled-Components, Material UI, Tailwind CSS, Bootstrap, Framer Motion
-- **Others** - Git, Webpack, BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
-
+- **Tools** - Git, Webpack, Vite, Parcel, ESLint, Prettier, npm, Firebase, AWS
+- **Others** - BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
 
 <!-- Apart from technical, I am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
 
@@ -67,21 +62,21 @@ Below are my Online Programming Profiles:
 <!-- **Frontend Web Development** -->
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>   -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" /> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>   -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> -->
 </p>       
 

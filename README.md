@@ -12,15 +12,15 @@ Always keen to learn new technologies and develop creative solutions. Ability to
 I enjoy working on challenging projects which make a difference.
 -->
 
-Software Engineer with a demonstrated history of developing and maintaining **frontend web applications**, currently
-working at [HCLTech](https://www.hcltech.com/) for over **2 years and 10 months.**  
+Software Engineer with a demonstrated history of developing, maintaining, testing and deploying **frontend web applications**, currently
+working at [HCLTech](https://www.hcltech.com/) for nearly **3 years.**  I am highly skilled, curious, and motivated to work on challenging projects.
 
 Below are my skills, 
 
-- **Technologies** - JavaScript, TypeScript, Reactjs, Redux (Toolkit / Saga / Thunk), React Router, React Query, SCSS, CSS, HTML
-- **UI Libraries** - Styled-Components, Material UI, Tailwind CSS, Bootstrap, Framer Motion
-- **Tools** - Git, Webpack, Vite, Parcel, ESLint, Prettier, npm, Firebase, AWS
-- **Others** - BEM Methodology, Responsive Web Development, Chrome DevTools, React & Redux DevTools
+- C++, JavaScript, TypeScript, Reactjs, Redux (Toolkit / Saga / Thunk), React Query, React Router, Webpack
+- Tailwind CSS, Material UI, Styled Components, Bootstrap, SCSS/SASS, CSS, HTML
+- JSON, Firebase, AWS, ESLint, Prettier, Postman, Git, JIRA, Confluence, Quantum Matrix, Figma
+- BEM Methodology, Responsive Web Development, React & Redux DevTools, Chrome DevTools
 
 <!-- Apart from technical, I am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
 
@@ -135,11 +135,10 @@ Below are my Online Programming Profiles:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavg916" alt="abhinavg916" /></a> </p> -->
 
-
 I am actively looking out for newer job opportunities and challenges to work on where I can contribute my expertise, learn from talented professionals, and be part of a team dedicated to creating cutting-edge software solutions.
 
-- Portfolio Website - [www.abhinavdhiman.com]()
-- Resume - [Abhinav_Frontend_(2+YoE)_Resume]()
+<!-- - Portfolio Website - [www.abhinavdhiman.com]() -->
+- Resume - [Abhinav_Frontend_(3YoE)_Resume](https://www.linkedin.com/in/abhinavg916/)
 
 If you are interested in discussing potential collaborations or would like to learn more about my qualifications, please don't hesitate to reach out. 
 

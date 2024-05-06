@@ -12,16 +12,18 @@ Always keen to learn new technologies and develop creative solutions. Ability to
 I enjoy working on challenging projects which make a difference.
 -->
 
+⚠ Open to Work - Seeking Newer Job Opportunities to Work! ⚠
+
 Software Engineer with a demonstrated history of developing, maintaining, testing and deploying **frontend web applications**, currently
 working at [HCLTech](https://www.hcltech.com/) for nearly **3 years.**  I am highly skilled, curious, and motivated to work on challenging projects.
-
+<!--
 Below are my skills, 
 
 - C++, JavaScript, TypeScript, Reactjs, Redux (Toolkit / Saga / Thunk), React Query, React Router, Webpack
 - Tailwind CSS, Material UI, Styled Components, Bootstrap, SCSS/SASS, CSS, HTML
 - JSON, Firebase, AWS, ESLint, Prettier, Postman, Git, JIRA, Confluence, Quantum Matrix, Figma
 - BEM Methodology, Responsive Web Development, React & Redux DevTools, Chrome DevTools
-
+-->
 <!-- Apart from technical, I am an effective team player who brings energy, enthusiasm & humor to motivate team members to achieve their best potential. -->
 
 <!-- I am always keen and curious to learn new technologies and develop creative solutions. I have the proven ability to grasp new technical concepts quickly and utilize them correctly in order to get the best results. -->

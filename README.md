@@ -50,7 +50,7 @@ Below are my Online Programming Profiles:
 
 <!-- ## Technical Skills -->
 
-> Currently working with...
+Currently working on...
 
 <!-- **Problem Solving** -->
 

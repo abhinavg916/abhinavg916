@@ -50,9 +50,9 @@ Below are my Online Programming Profiles:
 
 <!-- ## Technical Skills -->
 
-> _"Why was the JavaScript function sad? Because it didn't get a callback function!"_ 🤕
+<!-- > _"Why was the JavaScript function sad? Because it didn't get a callback function!"_ 🤕 -->
 
-Building frontend applications with...
+Building frontend web applications with...
 
 <!-- **Problem Solving** -->
 
